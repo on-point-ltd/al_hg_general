@@ -1,0 +1,23 @@
+{
+  "id": "3bac75c3-806a-4a0b-88cb-cdfc26d9478b",
+  "name": "General",
+  "publisher": "OnPoint Ltd.",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50900,
+    "to": 50999
+  },
+  "runtime": "2.1"
+}
